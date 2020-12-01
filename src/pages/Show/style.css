@@ -1,0 +1,89 @@
+@font-face {
+	font-family: 'Metropolis Medium';
+	src: url('../../components/Assets/Metropolis-Medium.otf');
+}
+
+.containers {
+	width: 100%;
+	margin: 0 auto;
+	padding-top: 30px;
+	padding-bottom: 60vh;
+}
+
+.buttond:active {
+	outline: none;
+}
+.buttond {
+	outline: none;
+}
+.buttond:focus {
+	outline: none;
+}
+
+.linkz,
+.linkz:hover {
+	color: #af2e1c;
+}
+
+.muted {
+	color: #929292;
+	text-align: right;
+}
+
+.Links:hover {
+	color: black;
+}
+
+.Links {
+	color: black;
+}
+
+.countain {
+	width: 45%;
+	margin: 0 auto;
+	margin-top: 20vh;
+}
+
+.all {
+	background: #000000;
+}
+
+.caption {
+	padding-left: 50px;
+	font-family: 'Metropolis Medium';
+	font-size: 20px;
+}
+
+.jumboR {
+	background: #e6f2fd;
+	z-index: -1;
+	max-width: 100%;
+	overflow: hidden;
+	padding: 30px;
+}
+
+.order {
+	padding-top: 30px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.order h1 {
+	font-family: classic;
+	font-style: bold;
+	font-weight: 800;
+	font-size: 30px;
+	padding-left: -30px;
+}
+
+.card {
+	border: 0px solid white;
+	text-align: justify;
+	font-family: classic;
+}
+
+.book-list {
+	padding-top: 50px;
+}
